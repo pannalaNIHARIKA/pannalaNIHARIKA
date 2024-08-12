@@ -1,4 +1,4 @@
-## Hi there 👋
+ Hi there 👋
 
 <!--
 **pannalaNIHARIKA/pannalaNIHARIKA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Welcome to my digital space! I'm Niharika, an aspiring Software Developer. I am a driven individual when it comes to learning new things, and I use that knowledge to build cool stuff with it. What drives my passion for software development? Imagine tackling a project that first appears overwhelmingly difficult, only to break it down and discover it's entirely manageable. That moment of triumph is truly unbeatable.
+Welcome to my digital space! I'm Niharika, an aspiring Software Developer. What drives my passion for software development? Imagine tackling a project that first appears overwhelmingly difficult, only to break it down and discover it's entirely manageable. That moment of triumph is truly unbeatable.
 
 In the realm of software development, I aim to bring to life the ideas I've envisioned. It's more than just coding; it's about turning imagination into reality. Join me on this thrilling journey where each line of code brings us closer to transforming dreams into real, functional creations.
 
- I’m currently learning backend development
+ I am a driven individual when it comes to learning new things, and I use that knowledge to build cool stuff with it.
  I’m eager to collaborate on developing communities and working on projects.
 
  
